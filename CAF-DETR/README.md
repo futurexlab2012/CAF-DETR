@@ -4,7 +4,7 @@
 
 **Important Notice:** The aforementioned manuscript is currently under review at **Pattern Analysis and Applications** journal. The code is provided for research and review purposes. Please do not distribute or use for commercial purposes until the manuscript is officially accepted and published.
 
-## Usage
+**Usage**
 Please strictly install the required dependencies according to `requirements.txt`.
 
 Place the dataset into the `dataset` folder.

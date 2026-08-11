@@ -7,3 +7,10 @@
 ##  Citation
 
 **If you use this code in your research or find it helpful, please cite our manuscript once it is published.** This helps us track the impact of our work and supports future research.
+
+## Usage
+Please strictly install the required dependencies according to `requirements.txt`.
+
+Place the dataset into the `dataset` folder.
+
+Run `train.py` to start.
